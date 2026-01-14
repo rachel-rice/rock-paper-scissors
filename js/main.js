@@ -21,5 +21,3 @@ function playRound(playerSelection, computerSelection){
 let computerSelection = getComputerChoice();
 let playerSelection = 'rock'
 console.log(playRound(playerSelection,computerSelection))
-
-
